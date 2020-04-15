@@ -159,7 +159,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.05660379, g: 0.05591288, b: 0.055802792, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agentPrefab: {fileID: 3432440870805149674, guid: 82d5f3a2ea3a3fd4ca71f4ac411c06f6, type: 3}
-  behaviour: {fileID: 0}
+  behaviour: {fileID: 11400000, guid: e2ec6a8fd6fde1141945ef8d46b43e06, type: 2}
   startingCount: 250
   driveFactor: 10
   maxSpeed: 5
